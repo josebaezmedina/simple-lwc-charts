@@ -1,0 +1,9 @@
+.bar-body {
+    background: rgb(255, 255, 255);
+}
+
+.bar-color {
+    color: rgb(255,255,255);
+    background: rgb(39, 126, 167);
+    background-color: rgb(39, 126, 167);
+}
